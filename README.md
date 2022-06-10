@@ -8,7 +8,7 @@ Hello, in this Repo i will show you how to create a **BASIC WEB SERVER** with [E
 
 Git Clone:
 ```bash
-git clone https://github.com/Vexidevlol/Basic-Web-Server.git
+git clone https://github.com/kumikodev/Basic-Web-Server.git
 ```
 Then Install the dependencies:
 ```bash
